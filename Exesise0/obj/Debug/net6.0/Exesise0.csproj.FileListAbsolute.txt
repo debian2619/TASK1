@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\bin\Debug\net6.0\Exesise0.exe
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\bin\Debug\net6.0\Exesise0.deps.json
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\bin\Debug\net6.0\Exesise0.runtimeconfig.json
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\bin\Debug\net6.0\Exesise0.dll
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\bin\Debug\net6.0\Exesise0.pdb
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\Exesise0.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\Exesise0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\Exesise0.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\Exesise0.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\Exesise0.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\Exesise0.dll
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\refint\Exesise0.dll
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\Exesise0.pdb
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\Exesise0.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\TASKS1\Exesise0\obj\Debug\net6.0\ref\Exesise0.dll
