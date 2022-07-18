@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\TASKS1\\Exesise0\\Exesise0.csproj",
-      "projectName": "Exesise0",
-      "projectPath": "C:\\Users\\משתמש\\Desktop\\TASKS1\\Exesise0\\Exesise0.csproj",
+      "projectUniqueName": "C:\\Users\\משתמש\\Desktop\\TASKS1\\Exesise0\\Exersise4\\Exersise4.csproj",
+      "projectName": "Exersise4",
+      "projectPath": "C:\\Users\\משתמש\\Desktop\\TASKS1\\Exesise0\\Exersise4\\Exersise4.csproj",
       "packagesPath": "C:\\Users\\משתמש\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\משתמש\\Desktop\\TASKS1\\Exesise0\\obj\\",
+      "outputPath": "C:\\Users\\משתמש\\Desktop\\TASKS1\\Exesise0\\Exersise4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\משתמש\\AppData\\Roaming\\NuGet\\NuGet.Config"
