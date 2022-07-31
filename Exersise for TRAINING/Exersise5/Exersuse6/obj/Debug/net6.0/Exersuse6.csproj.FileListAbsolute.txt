@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\bin\Debug\net6.0\Exersuse6.exe
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\bin\Debug\net6.0\Exersuse6.deps.json
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\bin\Debug\net6.0\Exersuse6.runtimeconfig.json
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\bin\Debug\net6.0\Exersuse6.dll
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\bin\Debug\net6.0\Exersuse6.pdb
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\Exersuse6.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\Exersuse6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\Exersuse6.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\Exersuse6.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\Exersuse6.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\Exersuse6.dll
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\refint\Exersuse6.dll
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\Exersuse6.pdb
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\Exersuse6.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\Exersise5\Exersuse6\obj\Debug\net6.0\ref\Exersuse6.dll
