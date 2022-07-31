@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\Exersise for TRAINING.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\Exersise for TRAINING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\Exersise for TRAINING.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\Exersise for TRAINING.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\Exersise for TRAINING.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\bin\Debug\net6.0\Exersise for TRAINING.exe
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\bin\Debug\net6.0\Exersise for TRAINING.deps.json
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\bin\Debug\net6.0\Exersise for TRAINING.runtimeconfig.json
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\bin\Debug\net6.0\Exersise for TRAINING.dll
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\bin\Debug\net6.0\Exersise for TRAINING.pdb
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\Exersise for TRAINING.dll
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\refint\Exersise for TRAINING.dll
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\Exersise for TRAINING.pdb
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\Exersise for TRAINING.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\TASKS1\Exersise for TRAINING\obj\Debug\net6.0\ref\Exersise for TRAINING.dll
