@@ -21,6 +21,6 @@ string Method4(int count, string text)
 }
 string result =  Method4(10, "z");
 Console.WriteLine(result);
-
+Console.Write(result);
 
 
